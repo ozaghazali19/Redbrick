@@ -1,34 +1,4 @@
-# Redbrick Airdrop Bot
-
-🚀 **Redbrick Airdrop Bot** 🚀 is an automation tool created for managing airdrop tasks on the Redbrick platform. The bot supports both manual and automatic modes for daily logins, level-ups, and task completions.
-
-## Features
-
-- **Manual Mode:** Perform tasks like daily login, level-ups, and task completions on-demand.
-- **Automatic Mode:** Schedule tasks to run daily at midnight.
-
-## Prerequisites
-
-- **Node.js:** Make sure Node.js is installed. You can download it from [nodejs.org](https://nodejs.org/).
-- **Axios:** HTTP client for making requests.
-- **Cron:** For scheduling automatic tasks.
-
-## Installation
-
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/dante4rt/redbrick-airdrop-bot.git
-    cd redbrick-airdrop-bot
-    ```
-
-2. **Install Dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Set Up Environment Variables:**
+**Set Up Environment Variables:**
 
     - Copy `.env.example` to `.env`:
 
@@ -70,24 +40,3 @@
 
 2. **Session Storage:**
    - Similar to Local Storage, but check the **Session Storage** section in the **Application** tab.
-
-## Contributing
-
-Feel free to submit issues or pull requests to improve the bot. Contributions are welcome!
-
-## Donations
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- **Solana**: `GLQMG8j23ookY8Af1uLUg4CQzuQYhXcx56rkpZkyiJvP`
-- **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
-- **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- **Created by:** HappyCuanAirdrop
-- **Telegram Channel:** [HappyCuanAirdrop](https://t.me/HappyCuanAirdrop)
